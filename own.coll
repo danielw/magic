@@ -25,17 +25,25 @@
 1 Llanowar Mentor [Future Sight] // mvid:126166
 1 Riftmarked Knight [Planar Chaos] // mvid:126816
 1 Rod of Ruin [Tenth Edition] // mvid:129704
+4 Fertile Ground [Lorwyn] // mvid:139502
+2 Deathrender [Lorwyn] // mvid:139727
+1 Militia's Pride [Lorwyn] // mvid:140193
+1 Runed Halo [Shadowmoor] // mvid:154005
+4 Dream Salvage [Shadowmoor] // mvid:158774
 1 Cliffrunner Behemoth [Conflux] // mvid:159612
 4 Trace of Abundance [Alara Reborn] // mvid:161292
 1 Blood Tribute [Zendikar] // mvid:170995
 1 Cradle of Vitality [Shards of Alara] // mvid:174789
 1 Ajani Vengeant [Shards of Alara] // mvid:174852
+1 Elspeth, Knight-Errant [Shards of Alara] // mvid:174859
 2 Qasali Ambusher [Shards of Alara] // mvid:174869
 1 Druid of the Anima [Shards of Alara] // mvid:174903
+4 Blightning [Shards of Alara] // mvid:174917
 4 Sigiled Paladin [Shards of Alara] // mvid:174958
 2 Court Archers [Shards of Alara] // mvid:174960
 4 Wild Nacatl [Shards of Alara] // mvid:174989
 2 Manaplasm [Shards of Alara] // mvid:175006
+4 Tidehollow Strix [Shards of Alara] // mvid:175015
 1 Invincible Hymn [Shards of Alara] // mvid:175039
 1 Marble Chalice [Shards of Alara] // mvid:175249
 1 Battlegrace Angel [Shards of Alara] // mvid:175394
@@ -43,19 +51,25 @@
 4 Teetering Peaks [Zendikar] // mvid:177549
 2 Vines of Vastwood [Zendikar] // mvid:177571
 1 Martial Coup [Conflux] // mvid:178560
+1 Path to Exile [Conflux] // mvid:179235
 3 Behemoth Sledge [Alara Reborn] // mvid:179545
 2 Sigil Captain [Alara Reborn] // mvid:179560
 4 Zealous Persecution [Alara Reborn] // mvid:179575
 2 Wildfield Borderpost [Alara Reborn] // mvid:179590
 1 Sigil of the Empty Throne [Conflux] // mvid:180271
+2 Nimbus Wings [Zendikar] // mvid:180346
+4 Scute Mob [Zendikar] // mvid:180455
 4 Guul Draz Vampire [Zendikar] // mvid:180498
 1 Knotvine Paladin [Alara Reborn] // mvid:180624
 2 Necromancer's Covenant [Alara Reborn] // mvid:183011
-1 Gatekeeper of Malakir [Zendikar] // mvid:185698
+4 Guul Draz Specter [Zendikar] // mvid:183418
+3 Gatekeeper of Malakir [Zendikar] // mvid:185698
 1 Kalitas, Bloodchief of Ghet [Zendikar] // mvid:185704
 4 Vampire Nighthawk [Zendikar] // mvid:185707
 1 Felidar Sovereign [Zendikar] // mvid:185743
 1 Malfegor [Conflux] // mvid:185812
+1 Banefire [Conflux] // mvid:186613
+2 Nyxathid [Conflux] // mvid:186616
 1 Eternity Vessel [Zendikar] // mvid:189006
 4 Graypelt Refuge [Zendikar] // mvid:189631
 4 White Knight [Magic 2010] // mvid:189877
@@ -70,10 +84,13 @@
 1 Ob Nixilis, the Fallen [Zendikar] // mvid:192219
 1 Grappling Hook [Zendikar] // mvid:192220
 1 Obsidian Fireheart [Zendikar] // mvid:192224
+4 Vampire Hexmage [Zendikar] // mvid:192232
 2 Blade of the Bloodchief [Zendikar] // mvid:193397
+4 Mind Sludge [Zendikar] // mvid:193403
 1 Primal Bellow [Zendikar] // mvid:193407
 1 Umbra Mystic [Rise of the Eldrazi] // mvid:193416
 2 Lone Missionary [Rise of the Eldrazi] // mvid:193426
+2 Inquisition of Kozilek [Rise of the Eldrazi] // mvid:193428
 4 Curse of Wizardry [Rise of the Eldrazi] // mvid:193447
 1 Nirkana Revenant [Rise of the Eldrazi] // mvid:193472
 4 Soul's Attendant [Rise of the Eldrazi] // mvid:193499
@@ -82,6 +99,7 @@
 4 Kor Spiritdancer [Rise of the Eldrazi] // mvid:193544
 2 Luminous Wake [Rise of the Eldrazi] // mvid:193549
 2 Prey's Vengeance [Rise of the Eldrazi] // mvid:193565
+2 Student of Warfare [Rise of the Eldrazi] // mvid:193598
 2 Guul Draz Assassin [Rise of the Eldrazi] // mvid:193612
 2 Suffer the Past [Rise of the Eldrazi] // mvid:193619
 4 Escaped Null [Rise of the Eldrazi] // mvid:193643
@@ -93,7 +111,7 @@
 1 Rusted Relic [Scars of Mirrodin] // mvid:194069
 2 Surge Node [New Phyrexia] // mvid:194070
 1 Vector Asp [Scars of Mirrodin] // mvid:194074
-1 Memnite [Scars of Mirrodin] // mvid:194078
+4 Memnite [Scars of Mirrodin] // mvid:194078
 4 Ezuri's Archers [Scars of Mirrodin] // mvid:194092
 2 Melt Terrain [Scars of Mirrodin] // mvid:194106
 1 Neurok Invisimancer [Scars of Mirrodin] // mvid:194109
@@ -106,7 +124,7 @@
 6 Contagious Nim [Scars of Mirrodin] // mvid:194150
 2 Blight Mamba [Scars of Mirrodin] // mvid:194158
 2 Untamed Might [Scars of Mirrodin] // mvid:194160
-2 Iron Myr [Scars of Mirrodin] // mvid:194168
+4 Iron Myr [Scars of Mirrodin] // mvid:194168
 3 Glissa's Scorn [New Phyrexia] // mvid:194171
 1 Ichor Rats [Scars of Mirrodin] // mvid:194177
 1 Shape Anew [Scars of Mirrodin] // mvid:194201
@@ -144,22 +162,28 @@
 3 Whipflare [New Phyrexia] // mvid:194383
 4 Gold Myr [Scars of Mirrodin] // mvid:194384
 1 Talus Paladin [Worldwake] // mvid:194672
-2 Enclave Cryptologist [Rise of the Eldrazi] // mvid:194903
+6 Enclave Cryptologist [Rise of the Eldrazi] // mvid:194903
 1 Transcendent Master [Rise of the Eldrazi] // mvid:194917
 2 Spider Umbra [Rise of the Eldrazi] // mvid:194925
+1 Kalastria Highborn [Worldwake] // mvid:197118
 4 Pulse Tracker [Worldwake] // mvid:197154
 1 Quest for the Holy Relic [Zendikar] // mvid:197406
+4 Quest for Pure Flame [Zendikar] // mvid:197407
 4 Quag Vampires [Worldwake] // mvid:197763
 2 Wrexial, the Risen Deep [Worldwake] // mvid:197840
 4 Sejiri Merfolk [Worldwake] // mvid:197844
 4 Loam Lion [Worldwake] // mvid:197873
+4 Luminarch Ascension [Zendikar] // mvid:197889
+4 Bloodchief Ascension [Zendikar] // mvid:197892
 4 Hyena Umbra [Rise of the Eldrazi] // mvid:198294
 1 Virulent Swipe [Rise of the Eldrazi] // mvid:198298
 1 Cast Through Time [Rise of the Eldrazi] // mvid:198301
 1 Basilisk Collar [Worldwake] // mvid:198356
 2 Perimeter Captain [Worldwake] // mvid:198361
+4 Urge to Feed [Worldwake] // mvid:198368
 1 Death's Shadow [Worldwake] // mvid:198372
-1 Everflowing Chalice [Worldwake] // mvid:198374
+2 Everflowing Chalice [Worldwake] // mvid:198374
+4 Quest for the Nihil Stone [Worldwake] // mvid:198386
 3 Marshal's Anthem [Worldwake] // mvid:198393
 2 Celestial Mantle [Zendikar] // mvid:198524
 2 Arm with AEther [New Phyrexia] // mvid:202641
@@ -170,10 +194,18 @@
 1 Skinrender [Scars of Mirrodin] // mvid:204958
 1 Knight Exemplar [Magic 2011] // mvid:204988
 2 Serra Ascendant [Magic 2011] // mvid:204989
+4 Primal Cocoon [Magic 2011] // mvid:204995
+4 Liliana's Specter [Magic 2011] // mvid:204998
+2 Brittle Effigy [Magic 2011] // mvid:205002
+2 Preordain [Magic 2011] // mvid:205019
+4 Duress [Magic 2011] // mvid:205024
+4 Liliana's Caress [Magic 2011] // mvid:205035
 2 Captivating Vampire [Magic 2011] // mvid:205041
 2 Sword of Vengeance [Magic 2011] // mvid:205044
 4 Ajani's Pridemate [Magic 2011] // mvid:205065
 4 Rise from the Grave [Magic 2011] // mvid:205113
+4 Sign in Blood [Magic 2011] // mvid:205118
+4 Silence [Magic 2011] // mvid:205119
 4 Lightning Bolt [Magic 2011] // mvid:205227
 4 White Knight [Magic 2011] // mvid:205239
 2 Golem's Heart [Scars of Mirrodin] // mvid:205472
@@ -187,6 +219,7 @@
 1 Salvage Scout [Scars of Mirrodin] // mvid:205491
 1 Ajani Goldmane [Magic 2011] // mvid:205957
 1 Chandra Nalaar [Magic 2011] // mvid:205958
+2 Liliana Vess [Magic 2011] // mvid:205961
 1 Platinum Angel [Magic 2011] // mvid:206329
 2 Arc Trail [Scars of Mirrodin] // mvid:206343
 2 Strider Harness [Scars of Mirrodin] // mvid:206344
@@ -201,7 +234,7 @@
 1 Quicksilver Gargantuan [Scars of Mirrodin] // mvid:207874
 1 Wurmcoil Engine [Scars of Mirrodin] // mvid:207875
 2 Necrotic Ooze [Scars of Mirrodin] // mvid:207876
-1 Mimic Vat [Scars of Mirrodin] // mvid:207883
+2 Mimic Vat [Scars of Mirrodin] // mvid:207883
 1 Auriok Sunchaser [Scars of Mirrodin] // mvid:208249
 1 Carapace Forger [Scars of Mirrodin] // mvid:208250
 4 Galvanic Blast [Scars of Mirrodin] // mvid:208251
@@ -302,11 +335,12 @@
 2 Dross Ripper [Mirrodin Besieged] // mvid:214032
 1 Praetor's Counsel [Mirrodin Besieged] // mvid:214034
 1 Cryptoplasm [Mirrodin Besieged] // mvid:214037
-1 Bonehoard [Mirrodin Besieged] // mvid:214040
+3 Bonehoard [Mirrodin Besieged] // mvid:214040
 1 Tangle Hulk [Mirrodin Besieged] // mvid:214041
 1 Shimmer Myr [Mirrodin Besieged] // mvid:214042
 4 Corrupted Conscience [Mirrodin Besieged] // mvid:214043
 1 Massacre Wurm [Mirrodin Besieged] // mvid:214044
+4 Psychosis Crawler [Mirrodin Besieged] // mvid:214047
 1 Hellkite Igniter [Mirrodin Besieged] // mvid:214052
 1 Lumengrid Gargoyle [Mirrodin Besieged] // mvid:214059
 1 Mirrorworks [Mirrodin Besieged] // mvid:214068
@@ -338,22 +372,25 @@
 1 Asceticism [Scars of Mirrodin] // mvid:215082
 4 Hand of the Praetors [Scars of Mirrodin] // mvid:215086
 1 Kemba, Kha Regent [Scars of Mirrodin] // mvid:215091
+2 Etched Champion [Scars of Mirrodin] // mvid:215099
 2 Ogre Geargrabber [Scars of Mirrodin] // mvid:215101
 1 Sunblast Angel [Scars of Mirrodin] // mvid:215111
 3 Furnace Scamp [New Phyrexia] // mvid:217979
 1 Shrine of Limitless Power [New Phyrexia] // mvid:217980
 6 Suture Priest [New Phyrexia] // mvid:217981
+2 Shrine of Boundless Growth [New Phyrexia] // mvid:217982
 6 Vault Skirge [New Phyrexia] // mvid:217984
 4 Impaler Shrike [New Phyrexia] // mvid:217988
 4 Spined Thopter [New Phyrexia] // mvid:217990
 4 Mycosynth Fiend [New Phyrexia] // mvid:217995
 4 Blind Zealot [New Phyrexia] // mvid:217999
 1 Birthing Pod [New Phyrexia] // mvid:218006
+2 Hex Parasite [New Phyrexia] // mvid:218008
 3 Slag Fiend [New Phyrexia] // mvid:218010
 1 Phyrexia's Core [New Phyrexia] // mvid:218015
 4 Psychic Barrier [New Phyrexia] // mvid:218016
 3 Vapor Snag [New Phyrexia] // mvid:218017
-2 Shrine of Burning Rage [New Phyrexia] // mvid:218018
+3 Shrine of Burning Rage [New Phyrexia] // mvid:218018
 5 Scrapyard Salvo [New Phyrexia] // mvid:218019
 1 Chancellor of the Dross [New Phyrexia] // mvid:218020
 4 Razor Swine [New Phyrexia] // mvid:218022
@@ -365,7 +402,7 @@
 1 Whispering Specter [New Phyrexia] // mvid:218045
 1 Fresh Meat [New Phyrexia] // mvid:218051
 1 Lost Leonin [New Phyrexia] // mvid:218053
-1 Isolation Cell [New Phyrexia] // mvid:218057
+4 Isolation Cell [New Phyrexia] // mvid:218057
 2 Phyrexian Unlife [New Phyrexia] // mvid:218058
 1 Caress of Phyrexia [New Phyrexia] // mvid:218061
 1 Chancellor of the Tangle [New Phyrexia] // mvid:218062
@@ -397,7 +434,7 @@
 4 Bloodrage Vampire [Magic 2012] // mvid:220125
 2 Vampire Outcasts [Magic 2012] // mvid:220127
 1 Rune-Scarred Demon [Magic 2012] // mvid:220130
-2 Lord of the Unreal [Magic 2012] // mvid:220131
+3 Lord of the Unreal [Magic 2012] // mvid:220131
 1 Monomania [Magic 2012] // mvid:220143
 4 Aven Fleetwing [Magic 2012] // mvid:220145
 1 Skinshifter [Magic 2012] // mvid:220151
@@ -527,7 +564,9 @@
 1 Wing Splicer [New Phyrexia] // mvid:233037
 1 Surgical Extraction [New Phyrexia] // mvid:233041
 1 Omen Machine [New Phyrexia] // mvid:233042
+4 Despise [New Phyrexia] // mvid:233043
 1 Viral Drake [New Phyrexia] // mvid:233047
+4 Norn's Annex [New Phyrexia] // mvid:233050
 2 Moltensteel Dragon [New Phyrexia] // mvid:233051
 6 Glistener Elf [New Phyrexia] // mvid:233052
 2 Spire Monitor [New Phyrexia] // mvid:233053
@@ -542,7 +581,7 @@
 4 Mortis Dogs [New Phyrexia] // mvid:233072
 1 Trespassing Souleater [New Phyrexia] // mvid:233073
 2 Pristine Talisman [New Phyrexia] // mvid:233074
-1 Mindcrank [New Phyrexia] // mvid:233078
+3 Mindcrank [New Phyrexia] // mvid:233078
 1 Vital Splicer [New Phyrexia] // mvid:233079
 2 Corrupted Resolve [New Phyrexia] // mvid:233080
 4 Toxic Nim [New Phyrexia] // mvid:233081
@@ -550,7 +589,7 @@
 2 Pestilent Souleater [New Phyrexia] // mvid:233085
 2 Rampant Growth [Magic 2012] // mvid:233231
 3 Greater Basilisk [Magic 2012] // mvid:233233
-3 Honor of the Pure [Magic 2012] // mvid:233237
+4 Honor of the Pure [Magic 2012] // mvid:233237
 3 Levitation [Magic 2012] // mvid:233728
 2 Cemetery Reaper [Magic 2012] // mvid:234070
 3 Thran Golem [Magic 2012] // mvid:234072
@@ -567,6 +606,7 @@
 3 Belltower Sphinx [Magic 2012] // mvid:236457
 1 Mind Unbound [Magic 2012] // mvid:236459
 3 Goblin War Paint [Magic 2012] // mvid:236461
+4 Royal Assassin [Magic 2012] // mvid:236464
 1 Solemn Simulacrum [Magic 2012] // mvid:236907
 4 Distress [Magic 2012] // mvid:236908
 1 Quicksilver Amulet [Magic 2012] // mvid:237006
@@ -602,6 +642,7 @@
 30 Island [Magic 2012] // mvid:244323
 30 Mountain [Magic 2012] // mvid:244330
 30 Plains [Magic 2012] // mvid:244331
+30 Swamp [Magic 2012] // mvid:244337
 3 Volcanic Dragon [Magic 2012] // mvid:244719
 1 Flameblast Dragon [Magic 2012] // mvid:244720
 4 Brindle Boar [Magic 2012] // mvid:244824
