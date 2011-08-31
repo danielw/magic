@@ -25,12 +25,15 @@
 1 Llanowar Mentor [Future Sight] // mvid:126166
 1 Riftmarked Knight [Planar Chaos] // mvid:126816
 1 Rod of Ruin [Tenth Edition] // mvid:129704
+1 Unbender Tine [Alara Reborn] // mvid:138217
 4 Fertile Ground [Lorwyn] // mvid:139502
 2 Deathrender [Lorwyn] // mvid:139727
 1 Militia's Pride [Lorwyn] // mvid:140193
+1 Pale Recluse [Alara Reborn] // mvid:144249
 1 Runed Halo [Shadowmoor] // mvid:154005
 4 Dream Salvage [Shadowmoor] // mvid:158774
 1 Cliffrunner Behemoth [Conflux] // mvid:159612
+1 Breath of Malfegor [Alara Reborn] // mvid:161291
 4 Trace of Abundance [Alara Reborn] // mvid:161292
 1 Blood Tribute [Zendikar] // mvid:170995
 1 Cradle of Vitality [Shards of Alara] // mvid:174789
@@ -38,6 +41,7 @@
 1 Elspeth, Knight-Errant [Shards of Alara] // mvid:174859
 2 Qasali Ambusher [Shards of Alara] // mvid:174869
 1 Druid of the Anima [Shards of Alara] // mvid:174903
+1 Wretched Banquet [Conflux] // mvid:174907
 4 Blightning [Shards of Alara] // mvid:174917
 4 Sigiled Paladin [Shards of Alara] // mvid:174958
 2 Court Archers [Shards of Alara] // mvid:174960
@@ -52,17 +56,36 @@
 2 Vines of Vastwood [Zendikar] // mvid:177571
 1 Martial Coup [Conflux] // mvid:178560
 1 Path to Exile [Conflux] // mvid:179235
+1 Matca Rioters [Conflux] // mvid:179248
+1 Blitz Hellion [Alara Reborn] // mvid:179406
+1 Fiery Fall [Conflux] // mvid:179519
+1 Stormcaller's Boon [Alara Reborn] // mvid:179534
+1 Ethercaste Knight [Alara Reborn] // mvid:179542
 3 Behemoth Sledge [Alara Reborn] // mvid:179545
 2 Sigil Captain [Alara Reborn] // mvid:179560
 4 Zealous Persecution [Alara Reborn] // mvid:179575
 2 Wildfield Borderpost [Alara Reborn] // mvid:179590
+1 Wall of Denial [Alara Reborn] // mvid:179601
 1 Sigil of the Empty Throne [Conflux] // mvid:180271
+1 Darklit Gargoyle [Conflux] // mvid:180334
 2 Nimbus Wings [Zendikar] // mvid:180346
 4 Scute Mob [Zendikar] // mvid:180455
 4 Guul Draz Vampire [Zendikar] // mvid:180498
 1 Knotvine Paladin [Alara Reborn] // mvid:180624
+1 Maniacal Rage [Conflux] // mvid:182609
+1 Soul Manipulation [Alara Reborn] // mvid:183008
 2 Necromancer's Covenant [Alara Reborn] // mvid:183011
+1 Marrow Chomper [Alara Reborn] // mvid:183014
+1 Sludge Strider [Conflux] // mvid:183019
+1 Nacatl Savage [Conflux] // mvid:183022
+1 View from Above [Conflux] // mvid:183058
 4 Guul Draz Specter [Zendikar] // mvid:183418
+1 Godtracker of Jund [Alara Reborn] // mvid:183994
+1 Valiant Guard [Conflux] // mvid:184984
+1 Shield of the Righteous [Alara Reborn] // mvid:185063
+1 Soul's Majesty [Conflux] // mvid:185137
+1 Zombie Outlander [Conflux] // mvid:185138
+1 Nacatl Outlander [Conflux] // mvid:185140
 3 Gatekeeper of Malakir [Zendikar] // mvid:185698
 1 Kalitas, Bloodchief of Ghet [Zendikar] // mvid:185704
 4 Vampire Nighthawk [Zendikar] // mvid:185707
@@ -70,8 +93,13 @@
 1 Malfegor [Conflux] // mvid:185812
 1 Banefire [Conflux] // mvid:186613
 2 Nyxathid [Conflux] // mvid:186616
+1 Jund Sojourners [Alara Reborn] // mvid:188966
+1 Bant Sureblade [Alara Reborn] // mvid:188975
 1 Eternity Vessel [Zendikar] // mvid:189006
+1 Unstable Frontier [Conflux] // mvid:189078
+1 Exploding Borders [Conflux] // mvid:189378
 4 Graypelt Refuge [Zendikar] // mvid:189631
+1 Veinfire Borderpost [Alara Reborn] // mvid:189640
 4 White Knight [Magic 2010] // mvid:189877
 1 Malakir Bloodwitch [Zendikar] // mvid:190398
 1 Emeria Angel [Zendikar] // mvid:190399
@@ -91,18 +119,28 @@
 1 Umbra Mystic [Rise of the Eldrazi] // mvid:193416
 2 Lone Missionary [Rise of the Eldrazi] // mvid:193426
 2 Inquisition of Kozilek [Rise of the Eldrazi] // mvid:193428
+1 Goblin Tunneler [Rise of the Eldrazi] // mvid:193432
 4 Curse of Wizardry [Rise of the Eldrazi] // mvid:193447
+1 Lightmine Field [Rise of the Eldrazi] // mvid:193463
 1 Nirkana Revenant [Rise of the Eldrazi] // mvid:193472
+1 Evolving Wilds [Rise of the Eldrazi] // mvid:193483
 4 Soul's Attendant [Rise of the Eldrazi] // mvid:193499
+1 Boar Umbra [Rise of the Eldrazi] // mvid:193509
 3 Forked Bolt [Rise of the Eldrazi] // mvid:193512
 2 Induce Despair [Rise of the Eldrazi] // mvid:193520
+1 Dread Drone [Rise of the Eldrazi] // mvid:193542
 4 Kor Spiritdancer [Rise of the Eldrazi] // mvid:193544
 2 Luminous Wake [Rise of the Eldrazi] // mvid:193549
 2 Prey's Vengeance [Rise of the Eldrazi] // mvid:193565
+1 Stomper Cub [Rise of the Eldrazi] // mvid:193567
+1 See Beyond [Rise of the Eldrazi] // mvid:193577
 2 Student of Warfare [Rise of the Eldrazi] // mvid:193598
+1 Regress [Rise of the Eldrazi] // mvid:193603
 2 Guul Draz Assassin [Rise of the Eldrazi] // mvid:193612
 2 Suffer the Past [Rise of the Eldrazi] // mvid:193619
+1 Broodwarden [Rise of the Eldrazi] // mvid:193634
 4 Escaped Null [Rise of the Eldrazi] // mvid:193643
+1 Heat Ray [Rise of the Eldrazi] // mvid:193649
 2 Protean Hydra [Magic 2010] // mvid:193753
 3 Groundswell [Worldwake] // mvid:193998
 1 Glint Hawk Idol [Scars of Mirrodin] // mvid:194049
@@ -162,9 +200,11 @@
 3 Whipflare [New Phyrexia] // mvid:194383
 4 Gold Myr [Scars of Mirrodin] // mvid:194384
 1 Talus Paladin [Worldwake] // mvid:194672
+1 Goblin Arsonist [Rise of the Eldrazi] // mvid:194902
 6 Enclave Cryptologist [Rise of the Eldrazi] // mvid:194903
 1 Transcendent Master [Rise of the Eldrazi] // mvid:194917
 2 Spider Umbra [Rise of the Eldrazi] // mvid:194925
+1 Nirkana Cutthroat [Rise of the Eldrazi] // mvid:194933
 1 Kalastria Highborn [Worldwake] // mvid:197118
 4 Pulse Tracker [Worldwake] // mvid:197154
 1 Quest for the Holy Relic [Zendikar] // mvid:197406
@@ -175,6 +215,8 @@
 4 Loam Lion [Worldwake] // mvid:197873
 4 Luminarch Ascension [Zendikar] // mvid:197889
 4 Bloodchief Ascension [Zendikar] // mvid:197892
+1 Distortion Strike [Rise of the Eldrazi] // mvid:198168
+1 Ikiral Outrider [Rise of the Eldrazi] // mvid:198176
 4 Hyena Umbra [Rise of the Eldrazi] // mvid:198294
 1 Virulent Swipe [Rise of the Eldrazi] // mvid:198298
 1 Cast Through Time [Rise of the Eldrazi] // mvid:198301
@@ -453,7 +495,7 @@
 3 Divination [Magic 2012] // mvid:220194
 2 Celestial Purge [Magic 2012] // mvid:220195
 1 Scepter of Empires [Magic 2012] // mvid:220209
-1 Dungrove Elder [Magic 2012] // mvid:220210
+2 Dungrove Elder [Magic 2012] // mvid:220210
 3 Divine Favor [Magic 2012] // mvid:220219
 2 Carnage Wurm [Magic 2012] // mvid:220220
 1 Chasm Drake [Magic 2012] // mvid:220225
@@ -510,7 +552,7 @@
 4 Birds of Paradise [Magic 2012] // mvid:221896
 2 Grand Abolisher [Magic 2012] // mvid:221898
 1 Drowned Catacomb [Magic 2012] // mvid:221920
-1 Dragonskull Summit [Magic 2012] // mvid:221921
+4 Dragonskull Summit [Magic 2012] // mvid:221921
 4 Rootbound Crag [Magic 2012] // mvid:221922
 4 Sunpetal Grove [Magic 2012] // mvid:221923
 4 Stormfront Pegasus [Magic 2012] // mvid:222633
